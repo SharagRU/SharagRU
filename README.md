@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- Animated dark header -->
+<!-- Animated cyber-style header: no generic name/tagline banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:161B22,100:30363D&height=190&section=header&text=SHARAG&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%7C%20INNOVATE%20%7C%20SCALE&descAlignY=60&descSize=15&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,35:0B1422,70:15283B,100:05070D&height=220&section=header&text=%3E%20BUILDING%20WHAT%27S%20NEXT&fontSize=34&fontColor=E6EDF3&fontAlignY=48&desc=AI%20SYSTEMS%20%20%E2%80%A2%20%20SOFTWARE%20%20%E2%80%A2%20%20EXPERIMENTS&descAlignY=68&descSize=14&animation=twinkling"
   width="100%"
-  alt="Sharag — Build, Innovate, Scale"
+  alt="Building what's next — AI systems, software, experiments"
 />
 
-<!-- Typing animation -->
-<a href="https://github.com/SharagRU">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=C9D1D9&center=true&vCenter=true&width=650&lines=AI+Developer;Python+Engineer;Building+AI+Agents;Software+Engineering;Turning+ideas+into+useful+products"
-    alt="Typing introduction"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9CCBEB&center=true&vCenter=true&width=680&lines=AI+Developer;Python+Engineer;Building+AI+Agents;Engineering+useful+software;Turning+ideas+into+working+products"
+  alt="AI Developer | Python Engineer | Building AI Agents"
+/>
 
 </div>
 
@@ -21,47 +18,51 @@
 
 ## `> whoami`
 
-I'm Sharag — a student developer interested in AI, software engineering, and building useful products. I enjoy turning ideas into working projects and learning by building.
+I'm **Sharag**, a student developer interested in AI, software engineering, and building useful products. I enjoy learning by building, experimenting with new tools, and turning ideas into working applications.
 
-## `> currently_building`
-
-- Autonomous AI agents and tool-using workflows
-- Practical applications with Python and modern web technologies
-- Projects that combine engineering with real-world problem solving
-
-## `> developer_workspace`
+## `> developer_terminal`
 
 <div align="center">
   <img
-    src="./assets/developer-workspace.png"
-    width="85%"
-    alt="A developer working at a computer in a dark workspace"
+    src="./assets/sharag-terminal.png"
+    width="100%"
+    alt="Terminal-style profile card with an ASCII rendering of Sharag and developer details"
   />
-  <br/>
-  <sub>Building, experimenting, and improving — one project at a time.</sub>
 </div>
 
-<!--
-This asset is currently a still image. If you later add a real animated GIF,
-upload it to assets/developer-workspace.gif and change the image src above
-to ./assets/developer-workspace.gif. GitHub README does not run custom JavaScript
-or CSS animations.
--->
+## `> currently_building`
+
+- Autonomous AI agents with tools, guardrails, and evaluations
+- Practical AI applications and backend systems
+- Projects that solve real problems through software
 
 ## `> tech_stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,fastapi,nodejs,git,github,vscode&theme=dark" alt="Technology icons" />
+  <img
+    src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,fastapi,nodejs,git,github,vscode&theme=dark"
+    alt="Technology stack"
+  />
 </div>
+
+---
 
 ## `> github_activity`
 
 <div align="center">
 
+<!-- Live activity graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SharagRU&bg_color=0d1117&color=9ccbeb&line=3fb950&point=ffffff&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
+
+<!-- Stats cards -->
 <img
   height="170"
   src="https://github-readme-stats.vercel.app/api?username=SharagRU&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="Sharag's GitHub statistics"
+  alt="GitHub statistics"
 />
 
 <img
@@ -73,7 +74,7 @@ or CSS animations.
 <br/>
 
 <img
-  width="72%"
+  width="70%"
   src="https://streak-stats.demolab.com?user=SharagRU&theme=github-dark-blue&hide_border=true"
   alt="GitHub contribution streak"
 />
@@ -92,11 +93,11 @@ or CSS animations.
 </div>
 
 <div align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories.</sub>
+  <sub>Thanks for visiting. Explore the repositories and see what I'm building.</sub>
 </div>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:09090B&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:15283B,50:0B1422,100:05070D&height=100&section=footer"
   width="100%"
   alt=""
 />
