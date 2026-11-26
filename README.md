@@ -20,15 +20,6 @@
 
 I'm **Sharag**, a student developer interested in AI, software engineering, and building useful products. I enjoy learning by building, experimenting with new tools, and turning ideas into working applications.
 
-## `> developer_terminal`
-
-<div align="center">
-  <img
-    src="./assets/sharag-terminal.png"
-    width="100%"
-    alt="Terminal-style profile card with an ASCII rendering of Sharag and developer details"
-  />
-</div>
 
 ## `> currently_building`
 
