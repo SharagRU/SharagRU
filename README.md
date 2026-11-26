@@ -49,7 +49,7 @@ I'm **Sharag**, a student developer interested in AI, software engineering, Web 
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,fastapi,nodejs,git,github,vscode,java,c++,c&theme=dark"
+    src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,fastapi,nodejs,git,github,vscode,java,c,SQL&theme=dark"
     alt="Technology stack"
   />
 </div>
