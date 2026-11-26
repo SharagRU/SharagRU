@@ -18,7 +18,7 @@
 
 ## `> whoami`
 
-I'm **Sharag**, a student developer interested in AI, software engineering, and building useful products. I enjoy learning by building, experimenting with new tools, and turning ideas into working applications.
+I'm **Sharag**, a student developer interested in AI, software engineering, Web development , Cybersecurity and building useful products. I enjoy learning by building, experimenting with new tools, and turning ideas into working applications.
 
 
 ## `> developer_workspace`
