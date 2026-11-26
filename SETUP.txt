@@ -1,0 +1,23 @@
+GITHUB PROFILE KIT — QUICK SETUP
+
+1. Open https://github.com/SharagRU
+2. If GitHub says the profile README repository does not exist, create a PUBLIC repository named exactly:
+   SharagRU
+   (The repository name must exactly match your GitHub username.)
+3. Make sure "Add a README file" is selected if creating it for the first time.
+4. Extract this ZIP on your computer.
+5. Upload BOTH:
+   - README.md
+   - assets/developer-workspace.png
+   Keep the assets folder and its filename unchanged.
+6. Commit the changes to the repository's default branch.
+7. Refresh your GitHub profile page.
+
+CUSTOMIZATION:
+- Change the text in README.md to update your introduction.
+- If your GitHub username is not SharagRU, replace every occurrence of SharagRU in the stats and profile links with your exact username.
+- The developer workspace image in this kit is a STILL image, not a true animated GIF. To use a real GIF later, place it at assets/developer-workspace.gif and change the README image path to ./assets/developer-workspace.gif.
+- GitHub README files do not execute custom JavaScript or CSS. Use GIF/SVG images for animation.
+- Stats are fetched from third-party services and may be cached, temporarily unavailable, or limited. Private repository activity may not appear.
+
+The README uses Capsule Render, Readme Typing SVG, GitHub Readme Stats, Streak Stats, and Skill Icons.
