@@ -8,8 +8,8 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9CCBEB&center=true&vCenter=true&width=680&lines=AI+Developer;Python+Engineer;Building+AI+Agents;Engineering+useful+software;Turning+ideas+into+working+products;Web+Development;Cybersecurity"
-  alt="AI Developer | Python Engineer | Building AI Agents | Web Development | Cybersecurity | "
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9CCBEB&center=true&vCenter=true&width=680&lines=Web+Developer;AI+Developer;Python+Engineer;Building+AI+Agents;Engineering+useful+software;Turning+ideas+into+working+products;Cybersecurity"
+  alt="Web Developer | AI Developer | Python Engineer | Building AI Agents | Cybersecurity | "
 />
 
 </div>
