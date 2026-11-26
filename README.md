@@ -21,6 +21,24 @@
 I'm **Sharag**, a student developer interested in AI, software engineering, and building useful products. I enjoy learning by building, experimenting with new tools, and turning ideas into working applications.
 
 
+## `> developer_workspace`
+
+<div align="center">
+
+<img
+  src="./assets/developer-workspace.png"
+  width="90%"
+  alt="Developer working at a computer in a dark cinematic workspace"
+/>
+
+<br/>
+
+<sub>BUILDING • EXPERIMENTING • INNOVATING</sub>
+
+</div>
+
+
+
 ## `> currently_building`
 
 - Autonomous AI agents with tools, guardrails, and evaluations
